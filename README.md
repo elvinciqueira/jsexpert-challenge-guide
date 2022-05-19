@@ -61,7 +61,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 ---
 
-- [ ] [DESAFIO JS EXPERT 02 - Lifecycle][challenge02]:
+- [x] [DESAFIO JS EXPERT 02 - Lifecycle][challenge02]:
       Aplique conceitos do ciclo de vida do Javascript para fazer os testes passarem, prevendo todo tipo de **comportamento maluco** e **coerções internas da linguagem**!
   - **O que estudar:** [_Módulo 03 - Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01_][module02];
   - **Solução oficial:** [DESAFIO JS EXPERT 02 - Lifecycle - Solution][solution02].
